@@ -1,10 +1,8 @@
 # flutter_sandbox
 
-A new Flutter project for practicing youtube tutorial
+A Very Neat looking todolist with a very good summary chart 🔥🔥🔥
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
